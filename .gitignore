@@ -1,0 +1,7 @@
+*
+!plugins/
+!plugins/Skript/
+!plugins/Skript/skins/
+!plugins/Skript/skins/heads/
+!plugins/Skript/skins/heads/*.png
+!.gitignore
